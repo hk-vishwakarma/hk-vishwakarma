@@ -1,85 +1,122 @@
-# 👋 Hi, I'm a Software Developer!
+<h1 align="center">Hi 👋, I'm Hemant Kumar Vishwakarma</h1>
+<h3 align="center">Software Developer | Backend & Django Enthusiast</h3>
 
-🎯 **Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner**
+<p align="center">
+📍 Ujjain, India • 
+📧 <a href="mailto:hkvishwakarma01@gmail.com">hkvishwakarma01@gmail.com</a> • 
+🔗 <a href="https://www.linkedin.com">LinkedIn</a> • 
+🐙 <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
 
-I’m a passionate software developer focused on building **clean, scalable, and real-world applications**.  
-Currently preparing for **software engineering placements** while strengthening my full-stack development skills.
-
----
-
-## 🧑‍💻 About Me
-
-- 💻 Strong foundation in **Java** and **Python**
-- 🌐 Building web applications using **Django & Django REST Framework**
-- 📱 Experience with **Android (Java, XML, Firebase)**
-- 🛠️ Interested in **Backend Development, APIs, and System Design**
-- 🎯 **Short-term goal:** Get placed in a reputed tech company  
-- 🚀 **Long-term goal:** Grow into a **Project Manager / Tech Lead**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 👨‍💻 Programming Languages
-- Java
-- Python
-- JavaScript (Basics)
+- 🎓 B.Tech in Computer Science Engineering (7.77 CGPA)
+- 💻 Passionate about **backend development & full-stack web applications**
+- 🔧 Strong in **Django, REST APIs, Authentication, and Database Design**
+- 📊 Actively improving **problem-solving & real-world project skills**
+- 🎯 Career Goal: **Software Engineer → Project Manager**
 
-### 🌐 Web & Backend
-- Django
-- Django REST Framework (DRF)
-- RESTful APIs
-- HTML, CSS
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### 🌐 Frameworks & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- Firebase
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Android Studio
-- VS Code
-- Postman
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
 ---
 
 ## 📌 Projects
 
-### 🛒 E-Commerce Web Application
-- Built using **Django & DRF**
-- User authentication, product management, and payment integration
-- Clean backend architecture with REST APIs
-
-### 📝 Notes Application
-- User login & registration
-- Create, view, and manage personal notes
-- Django-based authentication and CRUD operations
-
-### 🎬 CineFlix (Android App)
-- Movie streaming app built with **Java & Firebase**
-- Authentication, movie listings, and real-time database usage
-
-> 👉 More projects available in my repositories!
+### 🎓 Student Management System
+**Tech:** Python, Django, Bootstrap 5, HTML, CSS, SQLite / PostgreSQL  
+- Role-based dashboards for **Admin, Teacher, and Student**
+- Admin manages students, teachers, classes, and subjects
+- Teacher module for attendance & marks management
+- Student module to view attendance and exam-wise marks
+- Secure authentication & authorization using Django
+- Complex database relationships handled via Django ORM
 
 ---
 
-## 📈 What I’m Currently Learning
-
-- Advanced Django & REST APIs
-- Data Structures & Algorithms (DSA)
-- Full-Stack Development
-- Software Engineering Best Practices
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 Open to **internships & full-time opportunities**
-- 🤝 Happy to collaborate on meaningful projects
-- 📫 Reach me through GitHub
+### 📝 Smart Note
+**Tech:** Python, Django, HTML, CSS, SQLite  
+- Secure note-taking app with login & registration
+- CRUD operations for personal notes
+- Clean UI and responsive design
+- Django views, templates, and form handling
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+### 🍲 Recipe Hub
+**Tech:** Python, Django, HTML, CSS, SQLite, Django Admin  
+- Indian recipe management web application
+- Dynamic content via Django Admin Panel
+- Recipes include ingredients, images, and cooking steps
+- Responsive UI design
+
+---
+
+## 🎓 Education
+
+- **B.Tech (CSE)** – Prashanti Institute of Technology and Science, Ujjain  
+  *2020 – 2024 | CGPA: 7.77*
+
+- **Class XII (CBSE)** – Kadambini Children’s Academy  
+  *2019 – 2020 | 72.2%*
+
+- **Class X (CBSE)** – Kadambini Children’s Academy  
+  *2017 – 2018 | 61.8%*
+
+---
+
+## 📜 Certifications
+
+- Technology Job Simulation – **Deloitte**
+- Scientific Computing with Python – **freeCodeCamp**
+- Python Workshop – **Universal IT Solution**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  🚀 <strong>Building skills today for better software tomorrow.</strong>
+</p>
