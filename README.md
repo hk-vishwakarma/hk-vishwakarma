@@ -4,13 +4,13 @@
 <p align="center">
 📍 Ujjain, India • 
 📧 <a href="mailto:hkvishwakarma01@gmail.com">hkvishwakarma01@gmail.com</a> • 
-🔗 <a href="https://www.linkedin.com">LinkedIn</a> • 
-🐙 <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+🔗 <a href="https://www.linkedin.com/in/hemant-kumar-vishwakarma/">LinkedIn</a> • 
+🐙 <a href="https://github.com/hk-vishwakarma">GitHub</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
